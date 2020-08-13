@@ -1,0 +1,7 @@
+﻿  boundary.cpp
+  Camera.cpp
+  SIG_Config.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+d:\kong\vsc_project_(20.08.11~20.09.18)\vsc_kong\solution\sigforvsc\src\sig_config.cpp(150): warning C4715: 'readconfiguration': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Configuration_Maker_for_SIG.vcxproj -> D:\Kong\VSC_Project_(20.08.11~20.09.18)\VSC_Kong\Solution\SIGforVSC\x64\Debug\Configuration_Maker_for_SIG.exe

@@ -1,1 +1,11 @@
-\Solution\*
+#SIGforVSC
+/Solution/SIGforVSC/.vs/
+/Solution/SIGforVSC/include/opencv2/
+/Solution/SIGforVSC/include/lib/
+/Solution/SIGforVSC/include/x64/
+
+#VSC
+/Solution/VSC/.vs/
+/Solution/VSC/include/opencv2
+/Solution/VSC/lib
+/Solution/VSC/x64

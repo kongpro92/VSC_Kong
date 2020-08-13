@@ -1,0 +1,6 @@
+﻿  Camera.cpp
+d:\kong\vsc_project_(20.08.11~20.09.18)\solution\sigforvsc\include\camera.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core.hpp': No such file or directory
+  SIG_Config.cpp
+d:\kong\vsc_project_(20.08.11~20.09.18)\solution\sigforvsc\include\camera.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core.hpp': No such file or directory
+  main.cpp
+d:\kong\vsc_project_(20.08.11~20.09.18)\solution\sigforvsc\include\camera.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core.hpp': No such file or directory
